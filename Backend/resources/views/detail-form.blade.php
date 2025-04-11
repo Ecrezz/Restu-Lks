@@ -68,7 +68,7 @@
                   <div class="question-item  card card-default my-4">
                      <div class="card-body">
                         <div class="form-group my-3">
-                           <input type="text" placeholder="Question" class="form-control" name="name" value="Name" disabled />
+                           <input type="text" placeholder="Question" class="form-control" name="name" value="Name" disabled required />
                         </div> 
 
                         <div class="form-group my-3">
@@ -82,7 +82,7 @@
                            </select>
                         </div>
                         <div class="form-check form-switch" aria-colspan="my-3">
-                           <input class="form-check-input" type="checkbox" role="switch" id="required" disabled checked />
+                           <input class="form-check-input" type="checkbox" role="switch" id="required" disabled checked required />
                            <label class="form-check-label" for="required">Required</label>
                          </div>
                          <div class="mt-3">
@@ -94,7 +94,7 @@
                   <div class="question-item card card-default my-4">
                      <div class="card-body">
                         <div class="form-group my-3">
-                           <input type="text" placeholder="Question" class="form-control" name="name" value="Address" disabled />
+                           <input type="text" placeholder="Question" class="form-control" name="name" value="Address" disabled required />
                         </div> 
 
                         <div class="form-group my-3">
@@ -120,7 +120,7 @@
                   <div class="question-item card card-default my-4">
                      <div class="card-body">
                         <div class="form-group my-3">
-                           <input type="text" placeholder="Question" class="form-control" name="name" value="Sex" disabled />
+                           <input type="text" placeholder="Question" class="form-control" name="name" value="Sex" disabled required />
                         </div> 
 
                         <div class="form-group my-3">
@@ -152,7 +152,7 @@
                   <div class="question-item card card-default my-4">
                      <div class="card-body">
                         <div class="form-group my-3">
-                           <input type="text" placeholder="Question" class="form-control" name="name" value="Born Date" disabled />
+                           <input type="text" placeholder="Question" class="form-control" name="name" value="Born Date" disabled required />
                         </div> 
 
                         <div class="form-group my-3">
@@ -179,7 +179,7 @@
                   <div class="question-item card card-default my-4">
                      <div class="card-body">
                         <div class="form-group my-3">
-                           <input type="text" placeholder="Question" class="form-control" name="name" value="Hobbies" disabled />
+                           <input type="text" placeholder="Question" class="form-control" name="name" value="Hobbies" disabled required />
                         </div> 
 
                         <div class="form-group my-3">
@@ -212,7 +212,7 @@
                      <div class="card-body">
                         <form>
                            <div class="form-group my-3">
-                              <input type="text" placeholder="Question" class="form-control" name="name" value="" />
+                              <input type="text" placeholder="Question" class="form-control" name="name" value="" required />
                            </div> 
    
                            <div class="form-group my-3">

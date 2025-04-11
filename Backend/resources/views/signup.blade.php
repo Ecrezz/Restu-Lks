@@ -32,7 +32,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="username" class="mb-1 text-muted">Username <span class="text-danger">*</span></label>
-                              <input id="username" type="text" placeholder="Username" class="form-control" name="username"/>
+                              <input id="username" type="text" placeholder="Username" class="form-control" name="username" required />
                            </div>  
                         </div>
                      </div>
@@ -40,7 +40,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="password" class="mb-1 text-muted">Password <span class="text-danger">*</span></label>
-                              <input id="password" type="password" placeholder="Password" class="form-control" name="userpasswordname"/>
+                              <input id="password" type="password" placeholder="Password" class="form-control" name="userpasswordname" required />
                            </div>  
                         </div>
                      </div>

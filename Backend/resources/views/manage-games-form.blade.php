@@ -29,7 +29,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="title" class="mb-1 text-muted">Title <span class="text-danger">*</span></label>
-                              <input id="title" type="text" placeholder="Title" class="form-control" name="title"/>
+                              <input id="title" type="text" placeholder="Title" class="form-control" name="title" required />
                            </div>  
                         </div>
                      </div>
@@ -45,7 +45,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="thumbnail" class="mb-1 text-muted">Thumbnail <span class="text-danger">*</span></label>
-                              <input type="file" name="thumbnail" class="form-control" id="thumbnail">
+                              <input type="file" name="thumbnail" class="form-control" id="thumbnail" required>
                            </div>  
                         </div>
                      </div>
@@ -53,7 +53,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="game" class="mb-1 text-muted">File Game <span class="text-danger">*</span></label>
-                              <input type="file" name="game" class="form-control" id="game">
+                              <input type="file" name="game" class="form-control" id="game" required>
                            </div>  
                         </div>
                      </div>

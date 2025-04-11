@@ -14,7 +14,7 @@
         <a class="navbar-brand" href="manage-forms">Formify</a>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
          <li class="nav-item">
-           <a class="nav-link active" href="#">Administrator</a>
+           <a class="nav-link active" href="admins">Administrator</a>
          </li> 
          <li class="nav-item">
             <button type="button" class="btn bg-white text-primary ms-4">Logout</button>
@@ -48,7 +48,7 @@
             <div class="row justify-content-center ">
                <div class="col-lg-5 col-md-6"> 
                   <div class="input-group mb-5">
-                     <input type="text" class="form-control form-link" readonly value="http://localhost:8080/forms/biodata"/>
+                     <input type="text" class="form-control form-link" readonly value="http://localhost:8080/forms/biodata" required />
                      <a href="submit-form" class="btn btn-primary">Copy</a>
                   </div>
 

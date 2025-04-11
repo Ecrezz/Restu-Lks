@@ -22,14 +22,14 @@
                         <form action="index2"> 
                            <!-- s: input -->
                            <div class="form-group my-3">
-                              <label for="username" class="mb-1 text-muted">Username</label>
-                              <input type="text" id="username" name="username" value="" class="form-control" autofocus />
+                              <label for="username" class="mb-1 text-muted"  >Username</label>
+                              <input type="text" id="username" name="username" value="" class="form-control" autofocus required />
                            </div> 
 
                            <!-- s: input -->
                            <div class="form-group my-3">
-                              <label for="password" class="mb-1 text-muted">Password</label>
-                              <input type="password" id="password" name="password" value="" class="form-control" />
+                              <label for="password" class="mb-1 text-muted"  >Password</label>
+                              <input type="password" id="password" name="password" value="" class="form-control" required />
                            </div>
                            
                            <div class="mt-4 row">

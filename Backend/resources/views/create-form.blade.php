@@ -39,31 +39,31 @@
                      <!-- s: input -->
                      <div class="form-group mb-3">
                         <label for="name" class="mb-1 text-muted">Form Name</label>
-                        <input type="text" id="name" name="name" class="form-control" autofocus />
+                        <input type="text" id="name" name="name" class="form-control" autofocus required />
                      </div>
 
                      <!-- s: input -->
                      <div class="form-group my-3">
                         <label for="slug" class="mb-1 text-muted">Form Slug</label>
-                        <input type="text" id="slug" name="slug" class="form-control" />
+                        <input type="text" id="slug" name="slug" class="form-control" required />
                      </div>
 
                      <!-- s: input -->
                      <div class="form-group my-3">
                         <label for="description" class="mb-1 text-muted">Description</label>
-                        <textarea id="description" name="description" rows="4" class="form-control"></textarea>
+                        <textarea id="description" name="description" rows="4" class="form-control" ></textarea>
                      </div>
                      
                      <!-- s: input -->
                      <div class="form-group my-3">
                         <label for="allowed-domains" class="mb-1 text-muted">Allowed Domains</label>
-                        <input type="text" id="allowed-domains" name="allowed_domains" class="form-control" />
+                        <input type="text" id="allowed-domains" name="allowed_domains" class="form-control" required />
                         <div class="form-text">Separate domains using comma ",". Ignore for public access.</div>
                      </div>
                      
                      <!-- s: input -->
                      <div class="form-check form-switch" aria-colspan="my-3">
-                        <input type="checkbox" id="limit_one_response" name="limit_one_response" class="form-check-input" role="switch"/>
+                        <input type="checkbox" id="limit_one_response" name="limit_one_response" class="form-check-input" role="switch" required />
                         <label class="form-check-label" for="limit_one_response">Limit to 1 response</label>
                       </div>
 

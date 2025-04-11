@@ -51,8 +51,8 @@
                     </div>
                   </div>
                   <div class="col">
-                    <img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
-                    <a href="../example_game/v1//game.zip" class="btn btn-primary w-100 mb-2 mt-2">Download Game</a>
+                    <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
+                    <a href="game.zip" class="btn btn-primary w-100 mb-2 mt-2">Download Game</a>
                   </div>
                 </div>
 

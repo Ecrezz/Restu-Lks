@@ -29,7 +29,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="title" class="mb-1 text-muted">Title <span class="text-danger">*</span></label>
-                              <input id="title" type="text" placeholder="Title" value="Demo Game 1" class="form-control" name="title"/>
+                              <input id="title" type="text" placeholder="Title" value="Demo Game 1" class="form-control" name="title" required />
                            </div>  
                         </div>
                      </div>
@@ -45,7 +45,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="thumbnail" class="mb-1 text-muted">Thumbnail <span class="text-danger">(select the file if you want to change it)</span></label>
-                              <input type="file" name="thumbnail" class="form-control" id="thumbnail">
+                              <input type="file" name="thumbnail" class="form-control" id="thumbnail" required >
                               <img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" width="80">
                            </div>  
                         </div>
@@ -54,7 +54,7 @@
                         <div class="card-body">
                            <div class="form-group">
                               <label for="game" class="mb-1 text-muted">File Game <span class="text-danger">(select the file if you want to update it)</span></label>
-                              <input type="file" name="game" class="form-control" id="game">
+                              <input type="file" name="game" class="form-control" id="game" required>
                               <b>Versions:</b>
                               <ul class="mb-0">
                                  <li>v1 - 2024-04-09 22:32:41</li>

@@ -20,7 +20,7 @@
            <a class="nav-link active bg-dark" href="#">Welcome, Administrator</a>
          </li> 
          <li class="nav-item">
-          <a href="../signin" class="btn bg-white text-primary ms-4">Sign Out</a>
+          <a href="signin" class="btn bg-white text-primary ms-4">Sign Out</a>
          </li>
        </ul> 
       </div>
