@@ -69,7 +69,7 @@
                            <button class="btn btn-primary w-100">Submit</button>
                         </div>
                         <div class="col">
-                           <a href="manage-games.html" class="btn btn-danger w-100">Back</a>
+                           <a href="manage-games" class="btn btn-danger w-100">Back</a>
                         </div>
                      </div>
                   </form>

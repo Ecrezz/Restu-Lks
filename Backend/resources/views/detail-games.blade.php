@@ -16,7 +16,7 @@
               Demo Game 1
             </h2> 
             
-            <a href="profile.html" class="btn btn-success">By Dev1</a>
+            <a href="profile" class="btn btn-success">By Dev1</a>
             <div class="text-muted">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.
             </div>
@@ -57,7 +57,7 @@
                 </div>
 
                 
-                <a href="discover-games.html" class="btn btn-danger w-100">Back</a>
+                <a href="discover-games" class="btn btn-danger w-100">Back</a>
 
                </div>
              </div>  

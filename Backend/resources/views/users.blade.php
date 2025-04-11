@@ -11,16 +11,16 @@
    
    <nav class="navbar navbar-expand-lg sticky-top bg-primary navbar-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Administrator Portal</a>
+        <a class="navbar-brand" href="index">Administrator Portal</a>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           
-         <li><a href="admins.html" class="nav-link px-2 text-white">List Admins</a></li>
-         <li><a href="users.html" class="nav-link px-2 text-white">List Users</a></li>
+         <li><a href="admins" class="nav-link px-2 text-white">List Admins</a></li>
+         <li><a href="users" class="nav-link px-2 text-white">List Users</a></li>
          <li class="nav-item">
            <a class="nav-link active bg-dark" href="#">Welcome, Administrator</a>
          </li> 
          <li class="nav-item">
-          <a href="../signin.html" class="btn bg-white text-primary ms-4">Sign Out</a>
+          <a href="../signin" class="btn bg-white text-primary ms-4">Sign Out</a>
          </li>
        </ul> 
       </div>
@@ -30,7 +30,7 @@
 
       <div class="hero py-5 bg-light">
          <div class="container">
-            <a href="users-form.html" class="btn btn-primary">
+            <a href="users-form" class="btn btn-primary">
                Add User
             </a>
          </div>
@@ -52,7 +52,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                      <td><a href="../Gaming Portal/profile.html" target="_blank">player1</a></td>
+                      <td><a href="../Gaming Portal/profile" target="_blank">player1</a></td>
                       <td>2024-04-05 20:55:40</td>
                       <td>2024-04-05 20:55:40</td>
                       <td><span class="bg-success text-white p-1 d-inline-block">Active</span></td>
@@ -73,18 +73,18 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="users-form.html" class="btn btn-sm btn-secondary">Update</a>
+                            <a href="users-form" class="btn btn-sm btn-secondary">Update</a>
                             <a href="#" class="btn btn-sm btn-danger">Delete</a>
                       </td>
                   </tr>
                   <tr>
-                      <td><a href="../Gaming Portal/profile.html" target="_blank">player2</a></td>
+                      <td><a href="../Gaming Portal/profile" target="_blank">player2</a></td>
                       <td>2024-04-13 20:55:40</td>
                       <td>2024-04-28 20:55:40</td>
                       <td><span class="bg-danger text-white p-1 d-inline-block">Blocked</span></td>
                       <td>
                             <button type="submit" class="btn btn-primary btn-sm">Unlock</button>
-                            <a href="users-form.html" class="btn btn-sm btn-secondary">Update</a>
+                            <a href="users-form" class="btn btn-sm btn-secondary">Update</a>
                             <a href="#" class="btn btn-sm btn-danger">Delete</a>
                       </td>
                   </tr>

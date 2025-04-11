@@ -11,7 +11,7 @@
    
    <nav class="navbar navbar-expand-lg sticky-top bg-primary navbar-dark">
       <div class="container">
-        <a class="navbar-brand" href="manage-forms.html">Formify</a>
+        <a class="navbar-brand" href="manage-forms">Formify</a>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
          <li class="nav-item">
            <a class="nav-link active" href="#">Administrator</a>
@@ -49,15 +49,15 @@
                <div class="col-lg-5 col-md-6"> 
                   <div class="input-group mb-5">
                      <input type="text" class="form-control form-link" readonly value="http://localhost:8080/forms/biodata"/>
-                     <a href="submit-form.html" class="btn btn-primary">Copy</a>
+                     <a href="submit-form" class="btn btn-primary">Copy</a>
                   </div>
 
                   <ul class="nav nav-tabs mb-2 justify-content-center">
                      <li class="nav-item">
-                        <a class="nav-link" href="detail-form.html">Questions</a>
+                        <a class="nav-link" href="detail-form">Questions</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link active" href="responses.html">Responses</a>
+                        <a class="nav-link active" href="responses">Responses</a>
                      </li> 
                   </ul>
                </div>

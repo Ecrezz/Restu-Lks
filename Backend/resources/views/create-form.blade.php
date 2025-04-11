@@ -11,13 +11,13 @@
    
    <nav class="navbar navbar-expand-lg sticky-top bg-primary navbar-dark">
       <div class="container">
-        <a class="navbar-brand" href="manage-forms.html">Formify</a>
+        <a class="navbar-brand" href="manage-forms">Formify</a>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
          <li class="nav-item">
            <a class="nav-link active" href="#">Administrator</a>
          </li> 
          <li class="nav-item">
-            <a href="index.html" class="btn bg-white text-primary ms-4">Logout</a>
+            <a href="index" class="btn bg-white text-primary ms-4">Logout</a>
          </li>
        </ul> 
       </div>
@@ -35,7 +35,7 @@
             <div class="row">
                <div class="col-md-6 col-lg-4">
                   
-                  <form action="detail-form.html">
+                  <form action="detail-form">
                      <!-- s: input -->
                      <div class="form-group mb-3">
                         <label for="name" class="mb-1 text-muted">Form Name</label>

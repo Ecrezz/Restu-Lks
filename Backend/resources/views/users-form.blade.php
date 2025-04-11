@@ -50,7 +50,7 @@
                            <button class="btn btn-primary w-100">Submit</button>
                         </div>
                         <div class="col">
-                           <a href="users.html" class="btn btn-danger w-100">Back</a>
+                           <a href="users" class="btn btn-danger w-100">Back</a>
                         </div>
                      </div>
                   </form>

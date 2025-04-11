@@ -28,14 +28,14 @@
               <h5>Highscores per Game</h5>
               <div class="card-body">
                 <ol>
-                  <li><a href="detail-games.html">Demo Game 1 (3004)</a></li>
-                  <li><a href="detail-games.html">Demo Game 2 (2000)</a></li>
-                  <li><a href="detail-games.html">Demo Game 3 (1044)</a></li>
-                  <li><a href="detail-games.html">Demo Game 4 (1005)</a></li>
+                  <li><a href="detail-games">Demo Game 1 (3004)</a></li>
+                  <li><a href="detail-games">Demo Game 2 (2000)</a></li>
+                  <li><a href="detail-games">Demo Game 3 (1044)</a></li>
+                  <li><a href="detail-games">Demo Game 4 (1005)</a></li>
                 </ol>
               </div>
               <h5>Authored Games</h5>
-              <a href="detail-games.html" class="card card-default mb-3">
+              <a href="detail-games" class="card card-default mb-3">
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
@@ -50,7 +50,7 @@
                   </div>
                 </div>
               </a>
-              <a href="detail-games.html" class="card card-default mb-3">
+              <a href="detail-games" class="card card-default mb-3">
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
@@ -67,7 +67,7 @@
               </a>
 
                 
-                <a href="discover-games.html" class="btn btn-danger w-100">Back</a>
+                <a href="discover-games" class="btn btn-danger w-100">Back</a>
 
                </div>
              </div>  
