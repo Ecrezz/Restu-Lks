@@ -52,7 +52,7 @@
                </thead>
                <tbody>
                  <tr>
-                     <td><img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%"></td>
+                     <td><img src="./example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%"></td>
                      <td>Demo Game 1</td>
                      <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.                    </td>
                      <td>

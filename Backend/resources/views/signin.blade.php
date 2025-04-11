@@ -37,7 +37,7 @@
                                  <button type="submit" class="btn btn-primary w-100">Sign In</button>
                               </div>
                               <div class="col">
-                                 <a href="Gaming Portal/signup" class="btn btn-danger w-100">Sign up</a>
+                                 <a href="signup" class="btn btn-danger w-100">Sign up</a>
                               </div>
                               
                            </div>
