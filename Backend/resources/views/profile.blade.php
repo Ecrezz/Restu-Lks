@@ -39,7 +39,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
+                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">  
                     </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 1 <small class="text-muted">By Dev1</small></h5>
@@ -54,7 +54,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
+                       <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">  
                     </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 1 <small class="text-muted">By Dev1</small></h5>
