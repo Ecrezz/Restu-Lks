@@ -21,8 +21,8 @@
            <a class="nav-link active bg-dark" href="#">Welcome, Player1</a>
          </li> 
          <li class="nav-item">
-          <a href="../signin" class="btn bg-white text-primary ms-4">Sign Out</a>
-         </li>
+          <a class="btn bg-black text-primary ms-4" href="dashboard">Back To Dashboard</a>
+        </li> 
        </ul> 
       </div>
     </nav>
@@ -52,7 +52,7 @@
                </thead>
                <tbody>
                  <tr>
-                     <td><img src="./example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%"></td>
+                     <td>                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">  </td>
                      <td>Demo Game 1</td>
                      <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.                    </td>
                      <td>
@@ -62,7 +62,7 @@
                      </td>
                  </tr>
                  <tr>
-                     <td><img src="../example_game/v1/thumbnail.png" alt="Demo Game 2 Logo" style="width: 100%"></td>
+                     <td>                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">  </td>
                      <td>Demo Game 2</td>
                      <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.                    </td>
                      <td>
@@ -72,7 +72,7 @@
                      </td>
                  </tr>
                  <tr>
-                     <td><img src="../example_game/v1/thumbnail.png" alt="Demo Game 3 Logo" style="width: 100%"></td>
+                     <td>                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">  </td>
                      <td>Demo Game 3</td>
                      <td>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.                    </td>
                      <td>

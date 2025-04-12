@@ -91,3 +91,7 @@ Route::get('/users-form', function () {
 Route::get('/users', function () {
     return view('users');
 });
+
+Route::get('/gamezip', function () {
+    return view('gamezip');
+});

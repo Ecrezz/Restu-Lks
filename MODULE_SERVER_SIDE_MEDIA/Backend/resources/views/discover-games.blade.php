@@ -21,8 +21,8 @@
            <a class="nav-link active bg-dark" href="#">Welcome, Player1</a>
          </li> 
          <li class="nav-item">
-          <a href="signin" class="btn bg-white text-primary ms-4">Sign Out</a>
-         </li>
+          <a class="btn bg-black text-primary ms-4" href="dashboard">Back To Dashboard</a>
+        </li> 
        </ul> 
       </div>
     </nav>
@@ -65,7 +65,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
+                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
                     </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 1 <small class="text-muted">By Dev1</small></h5>
@@ -83,7 +83,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 2 Logo" style="width: 100%">
+                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">
                     </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 2 <small class="text-muted">By Dev1</small></h5>
@@ -101,8 +101,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 3 Logo" style="width: 100%">
-                    </div>
+                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">                    </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 3 <small class="text-muted">By Dev2</small></h5>
                       <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, numquam repellendus perspiciatis cupiditate veritatis porro quod eveniet animi perferendis molestias debitis temporibus, asperiores iusto.</div>
@@ -119,7 +118,7 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-4">
-                      <img src="../example_game/v1/thumbnail.png" alt="Demo Game 4 Logo" style="width: 100%">
+                      <img src="thumbnail.png" alt="Demo Game 1 Logo" style="width: 100%">                    
                     </div>
                     <div class="col">
                       <h5 class="mb-1">Demo Game 4 <small class="text-muted">By Dev1</small></h5>

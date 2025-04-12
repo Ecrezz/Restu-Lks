@@ -17,8 +17,8 @@
            <a class="nav-link active" href="#">Administrator</a>
          </li> 
          <li class="nav-item">
-            <a href="index" class="btn bg-white text-primary ms-4">Logout</a>
-         </li>
+            <a class="btn bg-black text-primary ms-4" href="dashboard">Back To Dashboard</a>
+          </li> 
        </ul> 
       </div>
     </nav>

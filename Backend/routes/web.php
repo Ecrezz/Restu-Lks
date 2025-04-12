@@ -95,3 +95,15 @@ Route::get('/users', function () {
 Route::get('/gamezip', function () {
     return view('gamezip');
 });
+
+Route::get('/signina', function () {
+    return view('signina');
+});
+
+Route::get('/signinp', function () {
+    return view('signinp');
+});
+
+Route::get('/game', function () {
+    return view('game');
+});

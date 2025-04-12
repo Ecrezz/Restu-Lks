@@ -63,7 +63,7 @@
                             </span>
                             <span>
                                 Login To
-                                <a href="login" target="_blank" class="inline-flex items-center space-x-1 font-medium underline underline-offset-4 text-[#f53003] ml-1">
+                                <a href="signina" target="_blank" class="inline-flex items-center space-x-1 font-medium underline underline-offset-4 text-[#f53003] ml-1">
                                     <span>Admin</span>
                                     <svg
                                         width="10"
@@ -90,7 +90,7 @@
                             </span>
                             <span>
                                 Login To
-                                <a href="login" target="_blank" class="inline-flex items-center space-x-1 font-medium underline underline-offset-4 text-[#f53003] ml-1">
+                                <a href="signinp" target="_blank" class="inline-flex items-center space-x-1 font-medium underline underline-offset-4 text-[#f53003] ml-1">
                                     <span>Programmer</span>
                                     <svg
                                         width="10"
@@ -112,7 +112,7 @@
                     </ul>
                     <ul class="flex gap-3 text-sm leading-normal">
                         <li>
-                            <a href="login" target="_blank" class="inline-block hover:bg-black hover:border-black px-5 py-1.5 bg-[#1b1b18] rounded-sm border border-black text-white text-sm leading-normal">
+                            <a href="game" target="_blank" class="inline-block hover:bg-black hover:border-black px-5 py-1.5 bg-[#1b1b18] rounded-sm border border-black text-white text-sm leading-normal">
                                 Play In
                             </a>
                         </li>
